@@ -22,3 +22,5 @@ jobs:
           port: ${{ secrets.PORT }}
           source: "public"
           target: "/home"
+          rm: true
+          overwrite: true
