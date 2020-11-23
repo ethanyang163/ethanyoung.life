@@ -870,6 +870,12 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.12.5":
+  version "7.12.5"
+  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.12.5.tgz#410e7e487441e1b360c29be715d870d9b985882e"
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/standalone@^7.10.2":
   version "7.11.4"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.11.4.tgz#e25a0fa05e9373545a1a38ad4462acfbec7d8a87"
@@ -5585,6 +5591,13 @@ gatsby-plugin-google-analytics@^2.4.0:
   dependencies:
     "@babel/runtime" "^7.11.2"
     minimatch "3.0.4"
+
+gatsby-plugin-google-gtag@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npm.taobao.org/gatsby-plugin-google-gtag/download/gatsby-plugin-google-gtag-2.3.0.tgz#88d600cba77fc38aa4284a3dbd555073d658ddf1"
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+    minimatch "^3.0.4"
 
 gatsby-plugin-manifest@^2.4.24:
   version "2.4.24"
