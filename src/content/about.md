@@ -22,4 +22,4 @@ Jiangsu Ocean University (2007-2011)
 - Massive Open Online Course
 
 ###Contact
-ethan_yang163@163.com
+ethan.y163@gmail.com
